@@ -1,4 +1,4 @@
-# 🎯 Ethical Hacking Capstone — Full Penetration Testing Engagement
+# Ethical Hacking Capstone — Full Penetration Testing Engagement
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
@@ -7,11 +7,11 @@
   <img src="https://img.shields.io/badge/Tools-Nmap%20%7C%20Metasploit%20%7C%20LinPEAS-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </p>
 
-> 🔐 End-to-end penetration testing engagement conducted in a controlled Hack The Box environment — covering information gathering, vulnerability assessment, exploitation, privilege escalation, lateral movement, post-exploitation, and professional security reporting with remediation planning.
+> End-to-end penetration testing engagement conducted in a controlled Hack The Box environment — covering information gathering, vulnerability assessment, exploitation, privilege escalation, lateral movement, post-exploitation, and professional security reporting with remediation planning.
 
 ---
 
-## 📌 Overview
+## Overview
 
 This capstone project simulates a **real-world black-box penetration test** against a multi-target environment including both Linux and Windows systems. The engagement follows industry-standard penetration testing methodology and produces professional-grade deliverables including a full findings report with risk ratings and remediation recommendations.
 
@@ -21,7 +21,7 @@ This capstone project simulates a **real-world black-box penetration test** agai
 
 ---
 
-## 🎯 Scope & Targets
+## Scope & Targets
 
 | Target | OS | Role |
 |--------|-----|------|
@@ -38,7 +38,7 @@ This capstone project simulates a **real-world black-box penetration test** agai
 
 ---
 
-## ⚔️ Penetration Testing Methodology
+## Penetration Testing Methodology
 
 ```
 Phase 1: Information Gathering
@@ -62,7 +62,7 @@ Phase 6: Reporting
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 | Phase | Tool | Purpose |
 |-------|------|---------|
@@ -76,9 +76,9 @@ Phase 6: Reporting
 
 ---
 
-## 🚨 Findings Summary
+## Findings Summary
 
-### 🔴 High Severity
+### High Severity
 
 | Finding | Description | Impact |
 |---------|-------------|--------|
@@ -88,7 +88,7 @@ Phase 6: Reporting
 | Privilege Escalation — Sudo Misconfiguration | Writable scripts executed as root via sudo | Root access achieved |
 | Remote Code Execution | Exploitable service version identified | Full system control |
 
-### 🟡 Medium Severity
+### Medium Severity
 
 | Finding | Description | Impact |
 |---------|-------------|--------|
@@ -96,7 +96,7 @@ Phase 6: Reporting
 | Directory Listing Enabled | Web server exposes directory contents | Information disclosure |
 | Internal Documentation Disclosure | Sensitive internal files publicly accessible | Reconnaissance aid |
 
-### 🟢 Low Severity
+### Low Severity
 
 | Finding | Description | Impact |
 |---------|-------------|--------|
@@ -104,7 +104,7 @@ Phase 6: Reporting
 
 ---
 
-## 🗺️ Attack Chain
+## Attack Chain
 
 ```
 Nmap Scan
@@ -126,7 +126,7 @@ Nmap Scan
 
 ---
 
-## 🔧 Remediation Recommendations
+## Remediation Recommendations
 
 | Finding | Recommended Fix |
 |---------|----------------|
@@ -139,23 +139,23 @@ Nmap Scan
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 ```
-📦 Ethical-hacking-capstone-project
+Ethical-hacking-capstone-project
 ├── 📄 README.md
 └── 📋 Hack the Box-Project-Hashan Kodippilige.pdf   ← Full pentest report
 ```
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 `Penetration Testing` `Network Reconnaissance` `Nmap` `WPScan` `Metasploit` `FTP Exploitation` `SSH` `LinPEAS` `Linux Privilege Escalation` `Sudo Misconfiguration` `Credential Reuse` `Post-Exploitation` `Risk Assessment` `Security Reporting` `Remediation Planning` `Kali Linux` `Hack The Box`
 
 ---
 
-## 💡 Real-World Relevance
+## Real-World Relevance
 
 This capstone simulates the full lifecycle of a professional penetration testing engagement — the type of work performed by:
 - **Penetration Testers** — structured engagement methodology, professional reporting
@@ -165,13 +165,13 @@ This capstone simulates the full lifecycle of a professional penetration testing
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This engagement was conducted exclusively within an **authorized, controlled Hack The Box educational environment** for academic and cybersecurity training purposes. No real-world systems were targeted.
 
 ---
 
-## 👤 Author
+## Author
 
 **Hashan Kodippilige**  
 M.S. Cybersecurity — Minnesota State University Moorhead  
